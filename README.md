@@ -47,6 +47,27 @@ This is a Flask-based web application that allows users to create and customize 
 flask-resume-builder/
 │-- static/
 │   ├── img/  # Stores uploaded images
+├── assets/  # Contains design-related files
+│   │   ├── design1/
+│   │   │   ├── css/
+│   │   │   ├── js/
+│   │   │   ├── image/
+│   │   │   ├── preview/
+│   │   ├── design2/
+│   |   |   ├── css/
+│   │   │   ├── js/
+│   │   │   ├── image/
+│   │   │   ├── preview/
+│   │   ├── design3/
+│   |   |   ├── css/
+│   │   │   ├── js/
+│   │   │   ├── image/
+│   │   │   ├── preview/
+│   │   ├── design4/
+|   |   |   ├── css/
+│   │   │   ├── js/
+│   │   │   ├── image/
+│   │   │   ├── preview/
 │-- templates/
 │   ├── home.html
 │   ├── design.html
